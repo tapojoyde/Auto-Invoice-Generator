@@ -1,2 +1,1 @@
-# Auto-Invoice-Generator
- Automated Generation of PDF Invoices
+# Automated Generation of PDF Invoices
